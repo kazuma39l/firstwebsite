@@ -1,0 +1,20 @@
+
+button{
+  border-radius:10px;
+  width:30px;
+  height:30px;
+  padding:0;
+}
+.kita-button{
+  background-color: black;
+  color: white;}
+.operator{background-color: red;
+  color: white;}
+.text{
+  background-color: black;
+  color: white;
+  }
+#sita{
+  position:absolute;
+  top: 40px;
+}
